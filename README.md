@@ -11,6 +11,6 @@ A prototype of a poly-agent epistemic safety framework. Demonstrates how narrow 
 ## Getting Started
 ```bash
 git clone https://github.com/TannerSt/truthkeeper_app.git
-cd truthkeeper_app
+cd documents/truthkeeper_app
 pip install -r requirements.txt
 python main.py
